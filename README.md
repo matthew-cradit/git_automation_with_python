@@ -19,7 +19,9 @@ export GIT_TOKEN=<your_personal_access_token>
 The program takes 3 commandline arguments 
 
 --name or -n = the name of the repo to create (required)
+
 --user or -u = your github username (required)
+
 --private or -p : flag to specify if the repo should be private or public (optional)
 
 ex
